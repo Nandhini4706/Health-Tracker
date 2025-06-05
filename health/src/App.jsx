@@ -1,15 +1,15 @@
 import { useState } from 'react'
-import './index.css'
+import React from 'react'
 
 function App() {
  
 
   return (
     <>
-      <div>
-        
+      <div className=' h-screen w-full bg-black text-bg-black'>
+        gffgfdcgf
         </div>
-    </>
+  </>
   )
 }
 
